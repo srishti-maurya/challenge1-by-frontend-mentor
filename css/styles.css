@@ -1,0 +1,50 @@
+/* tags */
+h3{
+  font-family: 'Big Shoulders Display', cursive;
+
+color: white;
+padding-left: 20px;
+font-weight: bold;
+}
+
+p{
+
+  font-family: 'Lexend', sans-serif;
+  color: white;
+  font-size: 15px;
+  padding: 20px 20px;
+
+}
+
+
+/* class */
+.content {
+  justify-content: center;
+  margin-top: 150px;
+}
+
+
+.sedan {
+  background: hsl(31, 77%, 52%);
+}
+
+.suv {
+  background: hsl(184, 100%, 22%);
+}
+
+.luxury {
+  background: hsl(179, 100%, 13%);
+}
+
+.img1 {
+  height: auto;
+  width: 50px;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+.btn{
+  border-radius: 20px;
+align-items: center;
+margin: 20px 20px;
+}
